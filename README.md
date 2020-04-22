@@ -1,0 +1,1 @@
+# artellapipe-cookiecutter
